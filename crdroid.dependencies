@@ -22,11 +22,5 @@
     "repository": "crdroidandroid/android_vendor_motorola_potter",
     "target_path": "vendor/motorola/potter",
     "branch": "9.0"
-  },
-  {
-    "remote": "crdroid",
-    "repository": "crdroidandroid/prebuilts_clang_host_linux-x86_7.0-DragonTC",
-    "target_path": "prebuilts/clang/host/linux-x86/7.0-DragonTC",
-    "branch": "8.1"
   }
 ]
