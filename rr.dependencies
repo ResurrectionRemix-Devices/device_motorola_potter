@@ -14,14 +14,14 @@
   },
   {
     "remote": "github",
-    "repository": "potter-dev/kernel",
+    "repository": "RevengeOS-Devices/android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
-    "branch": "lineage-16.0"
+    "branch": "EAS-p"
   },
   {
     "remote": "github",
-    "repository": "potter-dev/vendor",
+    "repository": "ArrowOS-Devices/android_vendor_motorola_potter",
     "target_path": "vendor/motorola/potter",
-    "branch": "lineage-16.0"
+    "branch": "arrow-9.x"
   }
 ]
